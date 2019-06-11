@@ -9,7 +9,7 @@ class App extends React.Component {
         <header className="App-header">
           <Greeting />
           {5+5}
-          {"a"+"b"+"c"}
+          {"Welcome to react"}
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
